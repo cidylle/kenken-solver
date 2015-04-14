@@ -1,10 +1,9 @@
 /* 
-   CSCI561 Programming Assignment 1: KenKen Solver	
+   KenKen Solver with Backtracking	
 
    @author: Christian Idylle
-   @uscid: 8257856490
    @date: 09/29/11
-   @Class: CSCI561 
+   @description: Authored for CSCI561 USC 
 
 */
 
